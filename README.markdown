@@ -2,7 +2,7 @@ This is a simple demonstration application used in the [Jenkins: The Definitive 
 
 ## The new line added by Rajesh B Ghankot again.
 ## Read again 1 2 3 5 6 7 9
-## Building the project
+## Building the projects
 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
